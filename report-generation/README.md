@@ -7,7 +7,6 @@ Educational Learning & Analytical Report Assistant: A domain-specific large lang
 [![Merged Model](https://img.shields.io/badge/Merged_Model-hagora--30%2FElara--14B--Merged-blue?style=flat-square)](https://huggingface.co/hagora-30/Elara-14B-Merged)
 [![Inference](https://img.shields.io/badge/Inference-Modal_%2B_vLLM-blueviolet?style=flat-square)](https://modal.com)
 [![GPU](https://img.shields.io/badge/GPU-NVIDIA_A100_40GB-76b900?style=flat-square)](#)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
 
 ## Executive Summary
 
